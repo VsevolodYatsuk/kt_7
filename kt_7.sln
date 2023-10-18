@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kt_7", "kt_7.csproj", "{EBA594B5-F693-4073-AE48-8849FEABAEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA594B5-F693-4073-AE48-8849FEABAEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA594B5-F693-4073-AE48-8849FEABAEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA594B5-F693-4073-AE48-8849FEABAEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA594B5-F693-4073-AE48-8849FEABAEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {861326B5-F039-4C0B-A443-0913096E504A}
+	EndGlobalSection
+EndGlobal
